@@ -216,4 +216,4 @@ pytest-html==4.1.1
 ## 👩‍💻 Author
 
 **Ashwini Deshpande** — ISTQB Certified QA Engineer
-[LinkedIn](https://www.linkedin.com/in/dashwini) | [GitHub](https://github.com/ashwini-qa)
+[LinkedIn](https://www.linkedin.com/in/dashwini) 
