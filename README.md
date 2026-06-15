@@ -1,4 +1,3 @@
-# playwright-web-testing-framework
 # Playwright Web Testing Framework
 
 A reusable end-to-end test automation framework built with **Python + Playwright + pytest**, using the Page Object Model (POM) design pattern.
